@@ -1,0 +1,3 @@
+rootProject.name = 'ReduxLoginForm'
+
+include ':app'
